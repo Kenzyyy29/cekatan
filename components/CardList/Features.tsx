@@ -1,11 +1,11 @@
 const Features = () => {
  return (
-  <div className="max-w-sm p-6 bg-transparent text-center">
+  <div className="max-w-sm 2xl:max-w-lg p-6 bg-transparent text-center">
    <svg
     xmlns="http://www.w3.org/2000/svg"
     viewBox="0 0 24 24"
     fill="currentColor"
-    className="size-7 mx-auto text-bone">
+    className="size-7 2xl:size-9 mx-auto text-bone">
     <path
      fillRule="evenodd"
      d="M12 6.75a5.25 5.25 0 0 1 6.775-5.025.75.75 0 0 1 .313 1.248l-3.32 3.319c.063.475.276.934.641 1.299.365.365.824.578 1.3.64l3.318-3.319a.75.75 0 0 1 1.248.313 5.25 5.25 0 0 1-5.472 6.756c-1.018-.086-1.87.1-2.309.634L7.344 21.3A3.298 3.298 0 1 1 2.7 16.657l8.684-7.151c.533-.44.72-1.291.634-2.309A5.342 5.342 0 0 1 12 6.75ZM4.117 19.125a.75.75 0 0 1 .75-.75h.008a.75.75 0 0 1 .75.75v.008a.75.75 0 0 1-.75.75h-.008a.75.75 0 0 1-.75-.75v-.008Z"
@@ -19,14 +19,14 @@ const Features = () => {
     />
    </svg>
    <div className="mt-2">
-    <h5 className="mb-2 text-2xl font-semibold tracking-tight text-bone dark:text-bone">
+    <h5 className="mb-2 text-2xl 2xl:text-4xl font-semibold tracking-tight text-bone dark:text-bone">
      Fitur yang Lengkap
     </h5>
-    <p className="mb-3 font-normal text-sm text-bone dark:text-bone ">
+    <p className="mb-3 font-normal text-sm 2xl:text-lg text-bone dark:text-bone ">
      Fitur yang lengkap memberikan kemudahan dan fleksibilitas bagi pelanggan
      dengan menyediakan berbagai layanan dalam satu platform. Hal ini
-     menciptakan pengalaman yang bernilai tinggi, sekaligus mencerminkan kualitas
-     layanan yang premium.
+     menciptakan pengalaman yang bernilai tinggi, sekaligus mencerminkan
+     kualitas layanan yang premium.
     </p>
    </div>
   </div>
