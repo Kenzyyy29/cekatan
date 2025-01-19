@@ -5,7 +5,7 @@ const Consultation = () => {
    <div className="my-auto space-y-10">
     <Link href="/">
      <h1 className="block text-xl font-semibold hover:underline text-yellow-600">
-      Bagaimana cara menggunakan Cekatan POS?
+      Bagaimana cara menggunakan Sellaris POS?
      </h1>
     </Link>
    </div>

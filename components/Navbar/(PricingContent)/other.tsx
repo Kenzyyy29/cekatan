@@ -10,7 +10,7 @@ const Other = () => {
     </Link>
     <Link href="/">
      <h1 className="block text-xl font-semibold hover:underline mb-3 text-yellow-600">
-      Karir Cekatan
+      Karir Sellaris
      </h1>
     </Link>
     <Link href="/">

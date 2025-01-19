@@ -6,12 +6,12 @@ const Service = () => {
     <h3 className="font-bold text-2xl mb-8 text-gray-400">Offline Sale</h3>
     <Link href="/cekatan-pos">
      <h1 className="block text-xl font-semibold hover:underline mb-3 text-yellow-600">
-      Cekatan POS
+      Sellaris POS
      </h1>
     </Link>
     <Link href="/cekatan-order">
      <h1 className="block text-xl font-semibold hover:underline text-yellow-600">
-      Cekatan Order
+      Sellaris Order
      </h1>
     </Link>
    </div>
